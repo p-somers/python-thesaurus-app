@@ -8,4 +8,4 @@ Now, you can print all at once by pressing "p" and hitting enter, or pressing "r
 
 NOTE: you will need an api key from http://words.bighugelabs.com/api.php. 
 Once you've gotten the key, place it in a file named api_key.py. All you need to put in the file is this one line:
-key = "<paste your key here>"
+key = "\<paste your key here\>"
